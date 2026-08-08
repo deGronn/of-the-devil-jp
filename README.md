@@ -48,6 +48,11 @@ Episode は DLC 形式で追加されていくため、新しい Episode がリ�
 ### ⬇ [**最新版をダウンロード**](../../releases/latest/download/OfTheDevilJP_full-install.zip)（約67MB）
 
 リンクをクリックすると、**そのままダウンロードが始まります。**
+初めての方は、こちらを選んでください。
+
+**すでに導入済みで更新する方**は、[⬇ 更新用の軽量版](../../releases/latest/download/OfTheDevilJP_mod-update.zip)（約16MB）も使えます。
+BepInEx を含まないぶん小さくなっているだけで、翻訳の内容は同じです。
+どちらを使っても、上書き前のファイルは自動でバックアップされます。
 
 バージョンや更新内容を確認してから選びたい場合は、[最新のリリースページ](../../releases/latest)を開いてください。
 過去のバージョンは [Releases](../../releases) の一覧から取得できます。
